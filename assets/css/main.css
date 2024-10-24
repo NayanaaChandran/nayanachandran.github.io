@@ -4691,6 +4691,7 @@ input, select, textarea {
 					{color: white;
 						font-size: large;
 						margin: auto;
+						width: 140%;
 
 					}
 
@@ -5122,7 +5123,7 @@ font-size: 5px;
 #worktable .container2 {
 position:relative;
 /* max-width: 800px; */
-width: 500px ;
+width: 700px ;
 vertical-align: baseline;
 margin: 0 auto;
 }
@@ -5154,8 +5155,9 @@ font-family: "Merriweather", Georgia, serif;
 /* position: relative; */
 z-index: 2;
 position:unset; 
-width: 500px ;
-height: 300px;
+width: 700px ;
+
+height: 450px;
 }
 
 #worktable  .content2 {
@@ -5165,6 +5167,7 @@ background: rgb(0, 0, 0); /* Fallback color */
 background: rgba(0, 0, 0, 0.4); /* Black background with 0.5 opacity */
 color: white;
 width: 100%;
+height: auto;
 padding: 10px;
 }
 
@@ -5588,18 +5591,18 @@ margin: 0 auto;
             				font-size: medium;
             			}
 			#worktable .container2
-			{	width: 400px;	
+			{	width: 650px;
 				/* padding-right: 10px;	
 				margin-right: 10px;		 */
 				margin-top: 10px;
 			}
 			#worktable .container2 img 
-			{   width: 280px;
-				height: 300px;
+			{   width: 650px;
+				height: 400px;
 			}
 			#worktable .content2
-			{	width: 280px;
-			    height: 300px;
+			{	width: 650px;
+			    height: 400px;
 			}
 			#worktable .content2 #projecthed 
 			{font-size: 14px;		
